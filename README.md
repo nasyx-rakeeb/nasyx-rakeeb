@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain<br><br>🌱 I’m currently learning Blockchain<br><br>👨‍💻 All of my projects are available at nasyxrakeeb.vercel.app<br><br>📝 I regularly write articles on codipher.com<br><br>💬 Ask me about web and mobile app development<br><br>📫 How to reach me nasyxrakeeb2@gmail.com<br><br>⚡ Fun fact I use my Phone for everything, and it is never far from my side
+🔭 I’m currently working on Blockchain<br><br>🌱 I’m currently learning Blockchain development<br><br>👨‍💻 All of my projects are available at nasyxrakeeb.vercel.app<br><br>📝 I regularly write articles on codipher.com<br><br>💬 Ask me about web and mobile app development<br><br>📫 How to reach me nasyxrakeeb2@gmail.com<br><br>⚡ Fun fact I use my Phone for everything, and it is never far from my side
 
 
 ## 🌐 Socials:
@@ -12,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nasyx-rakeeb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasyx-rakeeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nasyx-rakeeb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
