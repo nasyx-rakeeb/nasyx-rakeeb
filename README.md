@@ -12,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nasyx-rakeeb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasyx-rakeeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trophies
+## 🏆 Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nasyx-rakeeb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Quote
+### ✍️ Random Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Meme
+### 😂 Random Meme:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
