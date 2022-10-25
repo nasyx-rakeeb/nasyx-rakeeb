@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me
 👋 GREETINGS!<br><br>🧍‍♂️ My name is Nasyx Rakeeb, i am a Full-stack developer <br><br> 📍 I am from J&K India <br><br>🌱 I’m currently learning Blockchain development<br><br>👨‍💻 All of my projects are available at my [portfolio](https://nasyxrakeeb.vercel.app)<br><br>📝 I regularly write articles related to programming on my blog [Codipher](https://codipher.com)<br><br>💬 Ask me about web and mobile app development<br><br>📫 How to reach me nasyxrakeeb2@gmail.com<br><br>⚡ Fun fact I use my Phone for everything, and it is never far from my side
 
 
